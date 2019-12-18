@@ -9,7 +9,7 @@ let aiNumHitsToWin = 0
 let playerCounter = 0
 let start;
 
-
+// Hejsan svejsan
 /*
  *
  * id = "s78"
