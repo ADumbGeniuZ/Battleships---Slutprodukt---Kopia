@@ -10,6 +10,7 @@ let playerCounter = 0
 let start;
 
 // Hejsan svejsan
+//en till kommentar
 /*
  *
  * id = "s78"
