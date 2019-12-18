@@ -31,6 +31,7 @@
  */
 
 //  En kommentar i en annan fil.
+// La till ännu en kommentar.
 
 let destroyerCounter = 0
 let submarineCounter = 0
