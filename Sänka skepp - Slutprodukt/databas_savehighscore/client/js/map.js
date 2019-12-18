@@ -29,6 +29,9 @@
  * ... dvs en massa bilder på vatten.
  * 
  */
+
+//  En kommentar i en annan fil.
+
 let destroyerCounter = 0
 let submarineCounter = 0
 let cruiserCounter = 0
